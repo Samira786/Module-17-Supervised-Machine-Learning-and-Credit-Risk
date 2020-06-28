@@ -21,7 +21,7 @@ FN: 34<br/>
 TN: 10558<br/>
 <br/>
  
-[1]!(https://github.com/Samira786/Module-17-Supervised-Machine-Learning-and-Credit-Risk/blob/master/linear_regression_salary/Resources/images/naive-1.png) <br/>
+![1](https://github.com/Samira786/Module-17-Supervised-Machine-Learning-and-Credit-Risk/blob/master/linear_regression_salary/Resources/images/naive-1.png) <br/>
 <br/>
 
 SMOTE Oversampling Results:<br/>
@@ -33,7 +33,7 @@ FN: 39<br/>
 TN: 11787<br/>
 <br/>
  
-[2]!(https://github.com/Samira786/Module-17-Supervised-Machine-Learning-and-Credit-Risk/blob/master/linear_regression_salary/Resources/images/Smote-2.png) <br/>
+![2](https://github.com/Samira786/Module-17-Supervised-Machine-Learning-and-Credit-Risk/blob/master/linear_regression_salary/Resources/images/Smote-2.png) <br/>
 <br/>
 
 Undersampling Results:<br/>
@@ -45,7 +45,7 @@ FN: 34<br/>
 TN: 6887<br/>
 <br/>
 
-[3]!(https://github.com/Samira786/Module-17-Supervised-Machine-Learning-and-Credit-Risk/blob/master/linear_regression_salary/Resources/images/undersampling-3.png) <br/>
+![3](https://github.com/Samira786/Module-17-Supervised-Machine-Learning-and-Credit-Risk/blob/master/linear_regression_salary/Resources/images/undersampling-3.png) <br/>
 
 Combination Sampling (SMOTEENN):<br/>
 Accuracy score: 0.65<br/>
@@ -56,7 +56,7 @@ FN: 25<br/>
 TN: 9538<br/>
 <br/>
 
-[4]!(https://github.com/Samira786/Module-17-Supervised-Machine-Learning-and-Credit-Risk/blob/master/linear_regression_salary/Resources/images/combination-4.png) <br/>
+![4](https://github.com/Samira786/Module-17-Supervised-Machine-Learning-and-Credit-Risk/blob/master/linear_regression_salary/Resources/images/combination-4.png) <br/>
 
 Conclusion:<br/>
 SMOTEENN would be the best model to use based on the highest risk percentage 75% in recall.<br/>
@@ -73,7 +73,7 @@ FN: 30<br/>
 TN: 15750<br/>
 <br/>
  
-[5]!(https://github.com/Samira786/Module-17-Supervised-Machine-Learning-and-Credit-Risk/blob/master/linear_regression_salary/Resources/images/balanced-5.png) <br/>
+![5](https://github.com/Samira786/Module-17-Supervised-Machine-Learning-and-Credit-Risk/blob/master/linear_regression_salary/Resources/images/balanced-5.png) <br/>
 <br/>
 
 Easy Ensemble AdaBoost Classifier Results:<br/>
@@ -85,7 +85,7 @@ FN: 8<br/>
 TN: 16139<br/>
 <br/>
 
-[6]!(https://github.com/Samira786/Module-17-Supervised-Machine-Learning-and-Credit-Risk/blob/master/linear_regression_salary/Resources/images/easyensemble-6.png) <br/> 
+![6](https://github.com/Samira786/Module-17-Supervised-Machine-Learning-and-Credit-Risk/blob/master/linear_regression_salary/Resources/images/easyensemble-6.png) <br/> 
 
 Conclusion: <br/>
 Easy Ensemble AdaBoost would be the best model to use. <br/>
