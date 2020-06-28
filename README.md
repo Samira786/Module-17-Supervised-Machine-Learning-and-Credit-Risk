@@ -21,7 +21,7 @@ FN: 34<br/>
 TN: 10558<br/>
 <br/>
  
-
+[1!](https://github.com/Samira786/Module-17-Supervised-Machine-Learning-and-Credit-Risk/blob/master/linear_regression_salary/Resources/images/naive-1.png) <br/>
 
 SMOTE Oversampling Results:<br/>
 Accuracy score: 0.65<br/>
